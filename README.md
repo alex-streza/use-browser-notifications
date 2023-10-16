@@ -1,4 +1,5 @@
-# @alex-streza/use-browser-notifications
+![image](https://github.com/alex-streza/use-browser-notifications/assets/72100849/831f3a58-e6bd-4000-bc2b-8512a7fb5450)
+# @astre9/use-browser-notifications
 
 React friendly utility hook to trigger browser notifications.
 
@@ -6,15 +7,15 @@ React friendly utility hook to trigger browser notifications.
 
 pnpm
 
-`pnpm add @alex-streza/use-browser-notifications`
+`pnpm add @astre9/use-browser-notifications`
 
 yarn
 
-`yarn add @alex-streza/use-browser-notifications`
+`yarn add @astre9/use-browser-notifications`
 
 npm
 
-`npm i @alex-streza/use-browser-notifications`
+`npm i @astre9/use-browser-notifications`
 
 ## Usage
 
