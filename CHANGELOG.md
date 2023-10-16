@@ -1,5 +1,11 @@
 # @astre9/use-browser-notifications
 
+## 1.0.2
+
+### Patch Changes
+
+- a0a9f46: fix release script
+
 ## 1.0.1
 
 ### Patch Changes
