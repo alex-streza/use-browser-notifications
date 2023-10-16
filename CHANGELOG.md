@@ -1,5 +1,11 @@
 # @astre9/use-browser-notifications
 
+## 1.0.4
+
+### Patch Changes
+
+- 8f03ac7: fix publish
+
 ## 1.0.3
 
 ### Patch Changes
